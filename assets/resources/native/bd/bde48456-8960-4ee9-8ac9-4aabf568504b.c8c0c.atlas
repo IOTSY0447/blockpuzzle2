@@ -1,0 +1,104 @@
+
+shuye6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 868
+  size: 842, 154
+  orig: 842, 154
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 170, 115
+  orig: 170, 115
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 643
+  size: 654, 223
+  orig: 654, 223
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 435
+  size: 608, 206
+  orig: 608, 206
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 292, 171
+  size: 287, 95
+  orig: 287, 95
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 2, 119
+  size: 137, 286
+  orig: 137, 286
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 258
+  size: 288, 175
+  orig: 288, 175
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 292, 268
+  size: 165, 239
+  orig: 165, 239
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 814, 425
+  size: 209, 109
+  orig: 209, 109
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 833, 636
+  size: 130, 125
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 846, 763
+  size: 119, 259
+  orig: 119, 259
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 290, 83
+  size: 86, 217
+  orig: 86, 217
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 612, 444
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 658, 643
+  size: 173, 223
+  orig: 173, 223
+  offset: 0, 0
+  index: -1

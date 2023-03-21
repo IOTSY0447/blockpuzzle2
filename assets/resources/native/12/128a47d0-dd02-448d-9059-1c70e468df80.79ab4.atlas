@@ -1,0 +1,145 @@
+
+shuye3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 2, 2
+  size: 267, 216
+  orig: 267, 216
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 464, 299
+  size: 262, 199
+  orig: 262, 199
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 855
+  size: 355, 136
+  orig: 355, 136
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 246, 557
+  size: 337, 182
+  orig: 337, 182
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 464, 76
+  size: 215, 221
+  orig: 215, 221
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 604, 765
+  size: 226, 229
+  orig: 226, 229
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 681, 74
+  size: 193, 250
+  orig: 193, 250
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 835, 800
+  size: 168, 191
+  orig: 168, 191
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 728, 269
+  size: 215, 229
+  orig: 215, 229
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 585, 500
+  size: 227, 239
+  orig: 227, 239
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 220, 23
+  size: 212, 244
+  orig: 212, 244
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 246, 269
+  size: 216, 286
+  orig: 216, 286
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 814, 533
+  size: 201, 230
+  orig: 201, 230
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 526
+  size: 327, 242
+  orig: 327, 242
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 271
+  size: 253, 225
+  orig: 253, 225
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 359, 741
+  size: 243, 250
+  orig: 243, 250
+  offset: 0, 0
+  index: -1
+
+shuye32.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: false
+  xy: 2, 2
+  size: 186, 240
+  orig: 186, 240
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 388, 35
+  size: 148, 207
+  orig: 148, 207
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 190, 19
+  size: 196, 223
+  orig: 196, 223
+  offset: 0, 0
+  index: -1

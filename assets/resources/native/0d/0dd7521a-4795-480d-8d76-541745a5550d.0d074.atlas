@@ -1,0 +1,20 @@
+
+yezi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+叶子
+  rotate: false
+  xy: 2, 2
+  size: 852, 655
+  orig: 852, 655
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 856, 160
+  size: 852, 497
+  orig: 852, 497
+  offset: 0, 0
+  index: -1

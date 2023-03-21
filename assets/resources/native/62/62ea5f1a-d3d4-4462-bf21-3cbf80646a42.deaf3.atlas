@@ -1,0 +1,69 @@
+
+shuye5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 304, 52
+  size: 185, 197
+  orig: 185, 197
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 149, 290
+  size: 198, 220
+  orig: 198, 220
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 163, 83
+  size: 139, 205
+  orig: 139, 205
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 204
+  size: 145, 306
+  orig: 145, 306
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 349, 372
+  size: 138, 262
+  orig: 138, 262
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 159, 200
+  orig: 159, 200
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 854, 299
+  size: 159, 211
+  orig: 159, 211
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 349, 239
+  size: 131, 230
+  orig: 131, 230
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 613, 376
+  size: 134, 239
+  orig: 134, 239
+  offset: 0, 0
+  index: -1
